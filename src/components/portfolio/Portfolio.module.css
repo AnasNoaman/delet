@@ -1,0 +1,12 @@
+.imgw{
+    width: 400px;
+    height: 288px;
+    object-fit: cover;
+    
+}
+h2{
+    font-size: 55px;
+}
+span{
+    font-size: 50px;
+}
