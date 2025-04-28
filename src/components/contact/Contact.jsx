@@ -1,6 +1,6 @@
 import React from 'react'
-import CoustomInput from '../../Shared/CoustomInput'
-import CoustomButton from '../../Shared/CoustomButton'
+import CoustomInput from '../../shared/CoustomInput'
+import CoustomButton from '../../shared/CoustomButton'
 
 export default function Contact() {
   return (
